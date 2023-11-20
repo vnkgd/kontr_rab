@@ -1,0 +1,14 @@
+D:\GeekBrain\kontr_rab\kontr_rab\task\bin\Debug\net7.0\task.exe
+D:\GeekBrain\kontr_rab\kontr_rab\task\bin\Debug\net7.0\task.deps.json
+D:\GeekBrain\kontr_rab\kontr_rab\task\bin\Debug\net7.0\task.runtimeconfig.json
+D:\GeekBrain\kontr_rab\kontr_rab\task\bin\Debug\net7.0\task.dll
+D:\GeekBrain\kontr_rab\kontr_rab\task\bin\Debug\net7.0\task.pdb
+D:\GeekBrain\kontr_rab\kontr_rab\task\obj\Debug\net7.0\task.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrain\kontr_rab\kontr_rab\task\obj\Debug\net7.0\task.AssemblyInfoInputs.cache
+D:\GeekBrain\kontr_rab\kontr_rab\task\obj\Debug\net7.0\task.AssemblyInfo.cs
+D:\GeekBrain\kontr_rab\kontr_rab\task\obj\Debug\net7.0\task.csproj.CoreCompileInputs.cache
+D:\GeekBrain\kontr_rab\kontr_rab\task\obj\Debug\net7.0\task.dll
+D:\GeekBrain\kontr_rab\kontr_rab\task\obj\Debug\net7.0\refint\task.dll
+D:\GeekBrain\kontr_rab\kontr_rab\task\obj\Debug\net7.0\task.pdb
+D:\GeekBrain\kontr_rab\kontr_rab\task\obj\Debug\net7.0\task.genruntimeconfig.cache
+D:\GeekBrain\kontr_rab\kontr_rab\task\obj\Debug\net7.0\ref\task.dll
