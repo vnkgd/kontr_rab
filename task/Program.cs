@@ -4,6 +4,8 @@
 
 //выбираем строки, длина которых меньше трёх
 string[] array2 = new string[array1.Length];
+
+//мотод, который выбирает строки, длина которых меньше трёх.
 void SecondArray(string[] array1, string[] array2)
 {
     int count = 0;
