@@ -23,4 +23,4 @@
 
 1. Алгоритм: https://github.com/vnkgd/kontr_rab/blob/main/task/Program.cs
 2. Схема: https://github.com/vnkgd/kontr_rab/blob/main/blockshema/Блок%20схема%20к%20контрольной%20работе.png
-3. Описание решения: 
+3. Описание решения: https://github.com/vnkgd/kontr_rab/blob/main/README.md
